@@ -1,3 +1,3 @@
-import PyQt5,sys
+import sys
 print(sys.version)
 
